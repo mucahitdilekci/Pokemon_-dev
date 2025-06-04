@@ -1,0 +1,1 @@
+bu readme.md dosyasında benim """dders ödevlerim bulunuyor"""
