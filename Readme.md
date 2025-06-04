@@ -1,1 +1,2 @@
-bu readme.md dosyasında benim #çok önemli bir dosya
+bu readme.md dosyasında benim 
+#çok önemli bir dosya
